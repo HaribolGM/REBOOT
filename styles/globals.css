@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-screen {
+    @apply max-w-screen-xl mx-auto px-4 md:px-8;
+}
+
+.custom-btn-bg {
+    background: radial-gradient(67.5% 67.5% at 50% 50%, #4B5563 0%, rgba(75, 85, 99, 0) 100%)
+}
+
+.custom-btn-bg:hover {
+    background: radial-gradient(118.75% 118.75% at 50% 50%, #4B5563 0%, rgba(75, 85, 99, 0) 100%);
+}
+
+
+
+  
+
+.flex-1.flex.flex-col.justify-between.border.border-gray-800.rounded-2xl {
+  transition: box-shadow 0.4s ease-in-out;
+}
+
+.flex-1.flex.flex-col.justify-between.border.border-gray-800.rounded-2xl:hover {
+  box-shadow: 0 0 10px #f5abff; /* Change the color as needed */
+}  
+
+
+
+
+
+
+.space-y-3.p-4.rounded-xl.border.border-gray-800{
+    transition: box-shadow 0.4s ease-in-out;
+}
+
+.space-y-3.p-4.rounded-xl.border.border-gray-800:hover{
+  box-shadow: 0 0 10px #f5abff; /* Change the color as needed */
+
+}
+
