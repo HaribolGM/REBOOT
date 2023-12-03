@@ -15,25 +15,25 @@ const Testimonial = () => {
         {
             avatar: user1,
             name: "Yash Mali",
-            title: "Co-Founder & CEO",
+            title: "Project Manager",
             quote: "REBOOTCAS has been a transformative force in elevating our creative capabilities. Their expertise in graphics design and 3D website development has enabled us to create visually stunning and engaging experiences for our customers, significantly enhancing our brand presence and driving business growth. "
         },
         {
             avatar: user2,
             name: "Prathamesh Gharge",
-            title: "C0-Founder & Product Manager",
+            title: "Product Manager",
             quote: "REBOOTCAS has emerged as a strategic partner in our journey towards operational excellence. Their deep understanding of IT processes and their commitment to innovation have empowered us to streamline our operations, enhance efficiency, and optimize resource utilization. "
         },
         {
             avatar: user3,
             name: "Suraj Poman",
-            title: "Co-Founder & CMO",
+            title: "Human Resource",
             quote: "REBOOTCAS has revolutionized our approach to human resource management. Their comprehensive solutions have streamlined our recruitment and onboarding processes, empowered us to develop and implement effective training programs, and fostered a culture of continuous learning and development within our organization. "
         },
         {
             avatar: user4,
             name: "Gaurav Mali",
-            title: "Co-Founder & CTO",
+            title: "Senior Developer",
             quote: "REBOOTCAS has been a lifesaver for our IT team. They have helped us troubleshoot and resolve complex technical issues, as well as implement new technologies. We are very grateful for their expertise and would highly recommend them to other businesses."
         },
         {
