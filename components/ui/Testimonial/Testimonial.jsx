@@ -59,7 +59,7 @@ const Testimonial = () => {
                         REBOOTCAS Leaders
                     </h2>
                 </div>
-                <GradientWrapper wrapperClassName="max-w-sm h-40 top-12 inset-x-0" className="mt-12">
+                <GradientWrapper wrapperclassname="max-w-sm h-40 top-12 inset-x-0" className="mt-12">
                     <LayoutEffect
                         className="duration-1000 delay-300"
                         isInviewState={{
