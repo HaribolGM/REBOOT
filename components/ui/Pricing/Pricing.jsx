@@ -50,7 +50,10 @@ const Pricing = () => {
         <SectionWrapper id="pricing" className='custom-screen'>
             <div className='relative max-w-xl mx-auto text-center'>
                 <h2 className='text-gray-50 text-3xl font-semibold sm:text-4xl'>
-                    Find a plan to power your business
+                  
+                    Find a plan to <span className="primary-gradient">power your business</span>
+
+
                 </h2>
             </div>
             <LayoutEffect
